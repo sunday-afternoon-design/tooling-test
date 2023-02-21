@@ -12,6 +12,7 @@ let sketch = function(p) {
       p.background(0);
       p.fill(255);
       p.rect(x, y, 50, 50);
+      p.circle(30, 30, 20);
     };
   };
   
