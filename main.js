@@ -13,6 +13,7 @@ let sketch = function(p) {
       p.fill(255);
       p.rect(x, y, 50, 50);
       p.circle(30, 30, 20);
+      p.circle(230, 230, 40);
     };
   };
   
