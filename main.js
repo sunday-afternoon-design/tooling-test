@@ -11,8 +11,6 @@ let sketch = function(p) {
     p.draw = function() {
       p.background(0);
       p.fill(255);
-      p.rect(x, y, 50, 50);
-      p.rect(400, 0, 50, 50);
       p.circle(30, 30, 20);
       p.circle(230, 230, 40);
     };
